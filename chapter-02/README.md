@@ -22,5 +22,6 @@ ubuntu@ip:~/ serve static
 ### Zero-Dependency Service Mock
 
 ```console
-ubuntu@ip:~/ 
+ubuntu@ip:~/ node server.js
+ubuntu@ip:~/ serve www
 ```
